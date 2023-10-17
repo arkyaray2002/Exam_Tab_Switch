@@ -2,6 +2,10 @@ body {
         margin : auto;
 }
 
+marquee{
+        font-size : 25px;
+}
+
 /* Style for the popup */
 .popup {
         display: none;
