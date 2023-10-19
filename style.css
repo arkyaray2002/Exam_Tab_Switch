@@ -3,7 +3,8 @@ body {
 }
 
 marquee{
-        font-size : 25px;
+        font-size : 50px;
+        margin-top : 300px;
 }
 
 /* Style for the popup */
